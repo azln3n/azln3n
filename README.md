@@ -22,6 +22,6 @@
 - 
 
 ## link
-- tg: [@azln3n](https://t.me/azln3n)
+- telegram: [@azln3n](https://t.me/azln3n)
 
 
