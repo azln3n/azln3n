@@ -16,7 +16,7 @@
 - [Приложение для поиска и анализа Excel-файлов по заданным параметрам](https://github.com/azln3n/LSearch-overview/tree/main)
 - [Приложение для синхронной работы с 36 устройствами и обработкой в MatLab](https://github.com/azln3n/ATester-overview/tree/main)
 - [Приложение визуализации данных с Excel-таблицы на 3D модели](https://github.com/azln3n/Chart-overview/tree/main)
-- [Приложение для управления сервоприводами](https://companies.rbc.ru/news/Jn0hw35clf/chto-takoe-nda-i-dlya-chego-nuzhno-soglashenie-o-nerazglashenii/)
+- [Приложение для управления сервоприводами](https://github.com/azln3n/STester-overview)
 - [Телеграм бот для автоматизации создания заявок](https://github.com/azln3n/tel_bot/tree/main)
 
 ## links
