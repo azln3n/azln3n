@@ -1,16 +1,27 @@
-## Hi there 👋
+**Python Developer | Desktop & Automation**   
 
-<!--
-**azln3n/azln3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## skills
+- Python (прикладная разработка, автоматизация)
+- Desktop-приложения: PySide6, PyQt5
+- Telegram-боты: Aiogram
+- Работа с COM-портами: PySerial, ComSel
+- Обработка данных и таблиц: pandas, openpyxl
+- Backend / API: FastAPI
+- Интеграция с внешними системами: MATLAB
+- Базовое ООП
 
-Here are some ideas to get you started:
+## projects
+- [Приложение визуализации данных с COM-порта на встроенной карте](https://companies.rbc.ru/news/Jn0hw35clf/chto-takoe-nda-i-dlya-chego-nuzhno-soglashenie-o-nerazglashenii/)
+- [Приложение для поиска и анализа Excel-файлов по заданным параметрам](https://companies.rbc.ru/news/Jn0hw35clf/chto-takoe-nda-i-dlya-chego-nuzhno-soglashenie-o-nerazglashenii/)
+- [Приложение для синхронной работы с 36-COM портами и обработкой в MatLab](https://companies.rbc.ru/news/Jn0hw35clf/chto-takoe-nda-i-dlya-chego-nuzhno-soglashenie-o-nerazglashenii/)
+- [Приложение визуализации данных с Excel-таблицы на 3D модели](https://companies.rbc.ru/news/Jn0hw35clf/chto-takoe-nda-i-dlya-chego-nuzhno-soglashenie-o-nerazglashenii/)
+- [Приложение визуализации данных с COM-порта на встроенной карте](https://companies.rbc.ru/news/Jn0hw35clf/chto-takoe-nda-i-dlya-chego-nuzhno-soglashenie-o-nerazglashenii/)
+- [Приложение для управления сервоприводами](https://companies.rbc.ru/news/Jn0hw35clf/chto-takoe-nda-i-dlya-chego-nuzhno-soglashenie-o-nerazglashenii/)
+- [Телеграм бот для автоматизации создания заявок]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 
+
+## link
+- tg: [@azln3n](https://t.me/azln3n)
+
+
