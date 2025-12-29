@@ -17,7 +17,7 @@
 - [Приложение визуализации данных с Excel-таблицы на 3D модели](https://companies.rbc.ru/news/Jn0hw35clf/chto-takoe-nda-i-dlya-chego-nuzhno-soglashenie-o-nerazglashenii/)
 - [Приложение визуализации данных с COM-порта на встроенной карте](https://companies.rbc.ru/news/Jn0hw35clf/chto-takoe-nda-i-dlya-chego-nuzhno-soglashenie-o-nerazglashenii/)
 - [Приложение для управления сервоприводами](https://companies.rbc.ru/news/Jn0hw35clf/chto-takoe-nda-i-dlya-chego-nuzhno-soglashenie-o-nerazglashenii/)
-- [Телеграм бот для автоматизации создания заявок]()
+- [Телеграм бот для автоматизации создания заявок](https://github.com/azln3n/tel_bot/tree/main)
 
 - 
 
