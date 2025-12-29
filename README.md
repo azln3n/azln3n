@@ -5,10 +5,11 @@
 - Desktop-приложения: PySide6, PyQt5
 - Telegram-боты: Aiogram
 - Работа с COM-портами: PySerial, ComSel
-- Обработка данных и таблиц: pandas, openpyxl
-- Backend / API: FastAPI
+- Обработка данных и таблиц: pandas, openpyxl, xlrw, xlwt, python-docx
+- Backend / API: FastAPI, Flask
 - Интеграция с внешними системами: MATLAB
 - Базовое ООП
+- Git, Docker
 
 ## projects
 - [Приложение визуализации данных с COM-порта на встроенной карте](https://github.com/azln3n/sparser-overview/tree/main)
